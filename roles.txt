@@ -3,8 +3,8 @@
 
    Définition des roles :
 
-    Benjamin Bordelet : Devellopeur en chef
-    Dorian auneau : Devellopeur html
-    Bastien Leparoux : devellopeur Css
+    Benjamin Bordelet : Devellopeur html
+    Dorian auneau : Chargé de projet
+    Bastien Leparoux :Devellopeur CSS
     Kevin Pignon : Graphiste
     Côme Trisse : Devellopeur Javascript
